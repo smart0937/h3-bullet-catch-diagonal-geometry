@@ -148,5 +148,9 @@ Spatial: rooftop open (3.2s RT60), scope dead (0.1s), bullet flight wide (2.5s),
 - ❌ 使用慢動作、切鏡頭、背景音樂
 - ❌ 第一段結尾錨定幀
 
+## 參考實例
+
+- `references/example_prompt_v20.txt` — v20 完整提示詞實例（6,784 字符，< 7,000 限制），含 `integrated_multimodal_description`、`overall_soundscape`、`non_diegetic_music` 三段式結構，可直接作為模板基準。
+
 ## 版本歷史
 - v1.0.0 (2026-10-11): 從 v20 提示詞提煉，確立對角線幾何、BULLET CAM→FRONT VIEW 切換、完整生物力學、時間停止語法

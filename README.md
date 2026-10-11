@@ -172,6 +172,12 @@ non_diegetic_music = "N/A"
 
 ---
 
+## 參考實例
+
+- `references/example_prompt_v20.txt` — v20 完整提示詞實例（6,784 字符，< 7,000 限制），含 `integrated_multimodal_description`、`overall_soundscape`、`non_diegetic_music` 三段式結構，可直接作為模板基準。
+
+---
+
 ## 版本歷史
 
 | 版本 | 日期 | 變更內容 |
@@ -195,7 +201,8 @@ h3-bullet-catch-diagonal-geometry/
 ├── SKILL.md          # 技能定義與完整規範
 ├── assets/
 │   └── README.md     # 本文件（中文說明）
-└── (無額外 scripts/templates/)
+└── references/
+    └── example_prompt_v20.txt  # v20 完整提示詞實例
 ```
 
 ---
